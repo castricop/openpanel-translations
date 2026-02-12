@@ -320,7 +320,7 @@ msgstr "Suspender"
 
 #: modules/domains.py:491 templates/domains/domains.html:413
 msgid "Unsuspend"
-msgstr "Desuspender"
+msgstr "Reactivar"
 
 #: modules/emails.py:134 modules/emails.py:712 modules/emails.py:725
 #: modules/emails.py:743
@@ -1316,44 +1316,44 @@ msgstr "El almacenamiento en caché de Varnish ya está habilitado."
 
 #: modules/cache/varnish.py:85
 msgid "Failed to start the Varnish service. Try restart."
-msgstr ""
+msgstr "No se pudo iniciar el servicio Varnish. Intente reiniciarlo."
 
 #: modules/cache/varnish.py:94
 msgid "Varnish caching is now disabled."
-msgstr ""
+msgstr "Varnish Caché ha sido deshabilitada."
 
 #: modules/cache/varnish.py:96
 msgid "Failed to stop the Varnish service. Try restart."
-msgstr ""
+msgstr "No se pudo detener el servicio Varnish. Intente reiniciarlo."
 
 #: modules/cache/varnish.py:161 templates/cache/varnish.html:14
 #: templates/dashboard/dashboard.html:153
 msgid "Varnish"
-msgstr ""
+msgstr "Varnish"
 
 #: modules/core/paths.py:39
 msgid "Invalid context"
-msgstr ""
+msgstr "Contexto no válido"
 
 #: modules/core/paths.py:51
 msgid "User volume not found"
-msgstr ""
+msgstr "Volumen de usuario no encontrado"
 
 #: modules/core/paths.py:54
 msgid "Invalid base directory"
-msgstr ""
+msgstr "Directorio base no válido"
 
 #: modules/core/paths.py:57
 msgid "Invalid base directory specified."
-msgstr ""
+msgstr "Directorio base especificado no válido"
 
 #: modules/core/paths.py:72
 msgid "User root directory not found"
-msgstr ""
+msgstr "Directorio raíz del usuario no encontrado"
 
 #: modules/core/paths.py:75 modules/core/paths.py:136
 msgid "Forbidden"
-msgstr ""
+msgstr "Prohibido"
 
 #: modules/core/paths.py:80
 msgid "Path too long"
